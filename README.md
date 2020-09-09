@@ -6,5 +6,5 @@
 [![HitCount](http://hits.dwyl.com/abhinav237/abhinav237.svg)](http://hits.dwyl.com/abhinav237/abhinav237)  
 
 # What I Do?
- <p>~Data Enthusiast</p>
+ <p>~Data Analytics</p>
  <p>~Coding</>
