@@ -7,4 +7,5 @@
 
 # What I Do?
  <p>~Data Analytics</p>
+ <p>~Machine Learning</p>
  <p>~Coding</>
