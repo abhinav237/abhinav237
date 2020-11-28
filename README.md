@@ -1,6 +1,6 @@
 # Hello!
 
-![](https://media.giphy.com/media/SRlcbMtn4zgpWBVfrS/giphy.gif)  
+ 
 <table style={{border:none}}>
 <tr>
 <td>
