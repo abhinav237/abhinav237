@@ -1,7 +1,7 @@
 # Hello!
 
  
-<table style={{border:none}}>
+<table>
 <tr>
 <td>
  
@@ -23,7 +23,7 @@
 <table/>
 
 
-[![HitCount](http://hits.dwyl.com/abhinav237/GCP_ChallengeLabs.svg)](http://hits.dwyl.com/abhinav237/GCP_ChallengeLabs)  
+  
 
 # What I Do?
  <p>~Data Analytics</p>
